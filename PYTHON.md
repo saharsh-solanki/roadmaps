@@ -3,6 +3,12 @@
 ## Language Fundamentals
 1. **What is Python?**
    - Introduction to Python as a programming language.
+     - **Question:** Explain the key features and characteristics of Python that differentiate it from other programming languages.
+     - **Question:** How does Python handle memory management and garbage collection?
+     - **Question:** Discuss the significance of Python's dynamic typing and how it affects programming practices.
+     - **Question:** Describe some of the major applications and domains where Python is commonly used.
+     - **Question:** Reflect on your understanding of Python's syntax and readability compared to other programming languages.
+
 2. **Python Basics**
    - Variables and Data Types
    - Basic Operators
