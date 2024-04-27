@@ -1,4 +1,5 @@
 # Python RoadMap 
+## Learn the basic 
   - **Basic Syntax**
   - **Variables && DataTypes**
   - **Conditionals**
@@ -6,6 +7,8 @@
   - **Exception**
   - **Functions && BuiltIn Functions**
   - **List, Tuple, Set, Dictionary**
+
+## Note :- only Learn this topics [Link to roadmap and resource](https://roadmap.sh/python)
 
 
 # Python Interview Question Roadmap
