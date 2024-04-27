@@ -1,17 +1,9 @@
 # Python RoadMap 
-## Learn the basic 
-  - **Basic Syntax**
-  - **Variables && DataTypes**
-  - **Conditionals**
-  - **Type Casting**
-  - **Exception**
-  - **Functions && BuiltIn Functions**
-  - **List, Tuple, Set, Dictionary**
 
 ## Note :- only Learn this topics [Link to roadmap and resource](https://roadmap.sh/python)
 
 
-# Python Interview Question Roadmap
+# Python Interview Question 
 
 1. **What is Python?**
 2. **What can be built using Python?**
