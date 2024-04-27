@@ -1,7 +1,12 @@
 # Python RoadMap 
+  - **Basic Syntax**
+  - **Variables && DataTypes**
+  - **Conditionals**
+  - **Type Casting**
+  - **Exception**
+  - **Functions && BuiltIn Functions**
+  - **List, Tuple, Set, Dictionary**
 
-# Learn Python Form Here 
-https://roadmap.sh/python
 
 # Python Interview Question Roadmap
 
