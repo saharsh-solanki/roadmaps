@@ -44,6 +44,11 @@ This detailed roadmap aims to provide a comprehensive guide for learning and imp
 - Grouping test cases into test suites.
 - Executing tests and generating reports.
 - Fixtures cmdlines for both frameworks.
+
+## Step 7: Interview questions
+- How would you authenticate a page that requires email authentication.
+- Sibilings
+- 
 --------------------------------------------------------------------------------------------------------------------------------------
 ## Step 8: Continuous Integration (CI) and Continuous Testing (CT)
 - Integrating automation tests with CI/CD pipelines (e.g., Jenkins, Travis CI).
